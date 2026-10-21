@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterhub",
+  "repo": "nbgitpuller-downloader-dropbox",
+  "versions": [
+    {
+      "commit": "d81fa98630cb8a7a35d00365020b5f8c66a6fa76",
+      "parsed_at": "2026-10-21T21:56:15.769499+00:00",
+      "filetree": "filetree/d81fa98630cb8a7a35d00365020b5f8c66a6fa76.nq.gz",
+      "blobs": [
+        "blob/5025ce4e109c0024928f2910db710a81362a5baa.nq.gz",
+        "blob/ae343af1797270048064b82fc10b04015f4b838c.nq.gz",
+        "blob/7c7a753cbabba685dc3e67f1236dcdad2cc055ab.nq.gz",
+        "blob/a40371d2ab0f196ce1b881dba7073b800e6254ce.nq.gz",
+        "blob/8c42ba4a4efce1353af86b114ac68027319da5fc.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/07de284aa5c45f56b69ca6f605edf72a14785b99.nq.gz",
+        "blob/0e90ff6bfb95899378ef0d3c5f7f745421164a93.nq.gz",
+        "blob/55e86c7aa34ae6e460cd28b472fbe8d0b07df70a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

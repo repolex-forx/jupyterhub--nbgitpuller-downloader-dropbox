@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/nbgitpuller-downloader-dropbox/commit/d81fa98630cb8a7a35d00365020b5f8c66a6fa76",
       "git:hexsha": "d81fa98630cb8a7a35d00365020b5f8c66a6fa76",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

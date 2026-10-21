@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "nbgitpuller-downloader-dropbox",
+  "versions": [
+    {
+      "commit": "d81fa98630cb8a7a35d00365020b5f8c66a6fa76",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:58:48.286407+00:00"
+    }
+  ]
+}
